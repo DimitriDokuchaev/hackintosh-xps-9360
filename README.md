@@ -16,5 +16,3 @@ EFI configuration and assorted notes on the xps 9360 configuration
  
  Webcam
  
- What Works?
- - CPU Power management
