@@ -12,7 +12,7 @@ EFI configuration and assorted notes on the xps 9360 configuration
  
  Killer WiFi 1535 (To be replaced by a compatible WiFi card)
  
- BIOS version 
+ BIOS version 2.15.1
  
  Webcam
  
