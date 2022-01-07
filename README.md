@@ -35,14 +35,14 @@ EFI configuration and assorted notes on the xps 9360 configuration
   I advise you if you are going to use some of my files to please understand what you are doing as there will be no support from my end, everything can be done/learnt from dortania's guide and a few /r/hackintosh posts.
   
   All SSDT patches were built manually based on the guide's instructions, you have all the required patches:
-   SSDT-PLUG - for cpu support and identification
-   SSDT-EC-USBX - for fixing support for embedded controllers
-   SSDT-PNLF - for backlight fixing
-   SSDT-GPIO - for trackpad and keyboard support
-   SSDT-AWAC - for system clock fixing
-   SSDT-YTBT and SSDT-TYPC - for USB C and thunderbolt support, it has issues, but its the best that could be done as when this hackintosh was built.
-   SSDT-GPRW - to prevent instant wake after sleeping
-   SSDT-BCKM - keyboard backlight control
+   - SSDT-PLUG - for cpu support and identification
+   - SSDT-EC-USBX - for fixing support for embedded controllers
+   - SSDT-PNLF - for backlight fixing
+   - SSDT-GPIO - for trackpad and keyboard support
+   - SSDT-AWAC - for system clock fixing
+   - SSDT-YTBT and SSDT-TYPC - for USB C and thunderbolt support, it has issues, but its the best that could be done as when this hackintosh was built.
+   - SSDT-GPRW - to prevent instant wake after sleeping
+   - SSDT-BCKM - keyboard backlight control
 
  This set up was propper and up-to-date 9 months ago, however this hasn't been updated since then, this was also only tested on macOS Catalina, neither BigSur nor Montrrey were tested, feel free to test it, but expect things to break!
  This setup will eventually be updated for Monterrey when I have time.
