@@ -67,5 +67,8 @@ I have updated the files and configurations to support MacOS Monterey 12.1.
 - voodoo packages are still the latest as the time of this writting, so not updated.
 - ssdt patches kept as they are, still work on the latest version of MacOS Monterey.
 
+# IMPORTANT
+Resources folder which is part of the OC setup can't be uploaded manually due to file quantity restrictions, for now I'll leave you a link to the resources folder/files so you can add it to your OC folder, make sure you include the resources folder, otherwise your setup will not work, again, you need the resources folder from [here](https://github.com/acidanthera/OcBinaryData) inside your OC folder.
+
 ## Enjoy, no support!
 Again as mentioned above don't expect support on this setup, feel free to use the files and try stuff on your own. good luck!.
