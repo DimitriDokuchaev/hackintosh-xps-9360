@@ -63,7 +63,7 @@ I have updated the files and configurations to support MacOS Monterey 12.1.
 - AppleALC updated to the latest version
 - SataUnsuported.kext removed and replaced by CtlnaAHCIPort.kext due to a lot of sata controllers being dropped.
 
-## Not updated (kept)
+## Not updated (kept).
 - voodoo packages are still the latest as the time of this writting, so not updated.
 - ssdt patches kept as they are, still work on the latest version of MacOS Monterey.
 
