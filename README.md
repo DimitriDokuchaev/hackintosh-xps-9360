@@ -55,13 +55,14 @@ I have updated the files and configurations to support MacOS Monterey 12.1.
 
 ## What was done and updated?
 - Open Core was updated to the latest version 0.75.
-- HFSplus.efi updated to the latest version
+- HFSplus.efi updated to the latest version.
 - Open Core config.plist matches all the requirements to be compliant with version 0.75.
 - Lilu updated to the latest version.
 - Virtual smc and the all the other related kexts updated to latest version.
 - WhateverGreen updated to the latest version.
-- AppleALC updated to the latest version
+- AppleALC updated to the latest version.
 - SataUnsuported.kext removed and replaced by CtlnaAHCIPort.kext due to a lot of sata controllers being dropped.
+- CPUFriend and CPUFriendFriend updated to the latest version.
 
 ## Not updated (kept).
 - voodoo packages are still the latest as the time of this writting, so not updated.
