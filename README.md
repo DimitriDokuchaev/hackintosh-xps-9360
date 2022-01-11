@@ -68,4 +68,4 @@ I have updated the files and configurations to support MacOS Monterey 12.1.
 - ssdt patches kept as they are, still work on the latest version of MacOS Monterey.
 
 ## Enjoy, no support!
-Again as mentioned above don't expect support on this setup, feel free to use the files and try stuff on your own. good luck!
+Again as mentioned above don't expect support on this setup, feel free to use the files and try stuff on your own. good luck!.
